@@ -40,4 +40,4 @@ This helps users understand how the clothing might look on them before buying.
 - React Native
 - Expo
 - JavaScript / TypeScript
-- 
+  
